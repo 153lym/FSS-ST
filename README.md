@@ -1,1 +1,1 @@
-# MGD2Net
+# IAMRL
